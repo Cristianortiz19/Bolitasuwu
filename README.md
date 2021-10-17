@@ -1,1 +1,1 @@
-# Bolitasuwu
+# Clases figuras
